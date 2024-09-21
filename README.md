@@ -4,7 +4,7 @@ A Python-based bot fior telegram designed to monitor cryptocurrency prices
 
 ## Features
 
-- **Real-time Crypto Price Monitoring**: Fetches live cryptocurrency prices from multiple exchanges.
+- **Real-time Crypto Price Monitoring**: Fetches live cryptocurrency price from coinmarketcap.com.
   
 ## Requirements
 
