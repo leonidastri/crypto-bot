@@ -1,4 +1,4 @@
-# Crypto-Bot (For education purposes)
+# Telegram Crypto-Bot (For education purposes)
 
 A Python-based bot fior telegram designed to monitor cryptocurrency prices
 
